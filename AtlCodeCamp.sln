@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlCodeCamp.iOS", "AtlCodeCamp.iOS\AtlCodeCamp.iOS.csproj", "{B471854B-0B66-4392-97C6-F427ECD388DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlCodeCamp.Droid", "AtlCodeCamp.Droid\AtlCodeCamp.Droid.csproj", "{66500C1F-57B6-46AF-9C41-219BFED32C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Release|iPhone.Build.0 = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{66500C1F-57B6-46AF-9C41-219BFED32C9A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Release|iPhone.Build.0 = Release|iPhone
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B471854B-0B66-4392-97C6-F427ECD388DC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AtlCodeCamp.iOS\AtlCodeCamp.iOS.csproj
+	EndGlobalSection
+EndGlobal
